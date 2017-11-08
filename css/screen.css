@@ -217,13 +217,36 @@ p {
     line-height: 23px;
     margin: 0 0 23px 0;
     }
-
+		
 input[type=email]{
 	background-color: #DCDCDC;
+	width: 300px;
 	border: none;
+	margin-top: 0px;
+	margin-bottom: 15px;
 }
 
+input[type=checkbox]{
+	background-color: #DCDCDC;
+	margin-top: 15px;
+}
+
+input[type=submit]{
+	background-color: #DCDCDC;
+	margin-top: 15px;
+}
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
+
+
+
+
+
+
+
+
+
+
+
 
