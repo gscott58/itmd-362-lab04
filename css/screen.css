@@ -203,6 +203,25 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+h1 {
+    font-family: 'Coustard', serif;
+    font-weight: 900;
+    line-height: 46px;
+    font-size: 41px;
+    margin: 0 0 23px 0;
+    }
+p {
+    font-family: 'Leckerli One', cursive;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    }
+
+input[type=email]{
+	background-color: #DCDCDC;
+	border: none;
+}
 
 /* ===== MODULAR STYLES ===== */
 
